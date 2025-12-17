@@ -29,6 +29,10 @@ This project was created to practice front-end development and design a professi
 
 
 
+https://github.com/user-attachments/assets/6eba11b5-80d2-4fb2-ad17-4fcd81459496
+
+
+
 
 Feel free to explore, customize, and improve the project.
 
