@@ -24,6 +24,7 @@ JavaScript – Interactivity
 
 This project was created to practice front-end development and design a professional portfolio layout.
 
+📷 Preview
 
 
 
